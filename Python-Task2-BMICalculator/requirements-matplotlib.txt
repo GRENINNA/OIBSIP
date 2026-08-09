@@ -1,0 +1,2 @@
+# Optional enhanced trend chart with navigation and export controls.
+matplotlib>=3.7
